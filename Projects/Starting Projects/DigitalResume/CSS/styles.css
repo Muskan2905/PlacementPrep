@@ -1,0 +1,122 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:#fff;
+}
+.introduction{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    margin-top:10px;
+    padding-bottom:25px;
+    border-bottom:1px solid #726666;
+}
+.description{
+    margin-top:40px;
+}
+.name{
+    color:#5c5858;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom:-15px;
+}
+.profile{
+    font-family: 'Roboto', sans-serif;
+    margin-bottom:-20px;
+}
+.descriptive-para{
+    width:35vw;
+    margin-top:30px;
+    color:#595959;
+    font-size:15px;
+}
+.selfImage{
+    border-radius:50%;
+    border:2px solid rgb(114, 102, 102);
+    width:100%;
+    max-width:180px;
+    height:auto;
+    margin-top:30px;
+}
+.lists{
+    list-style-type:none;
+    margin-top:70px;
+}
+.list{
+    margin-bottom:3px;
+    font-size:0.9em;
+    color:rgb(102, 98, 98);
+}
+.list a{
+    text-decoration:none;
+    color:rgb(102, 98, 98);
+    cursor:pointer;
+}
+.icon{
+    width:100%;
+    max-width:25px;
+    height:auto;
+    margin-bottom:-7px;
+    margin-left:10px;
+}
+.flex-board{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    margin:25px 0;
+}
+.educationExperience,.skillSet{
+    margin-left:30px;
+}
+.educationExperience h2, .skillSet h2{
+    font-family: 'Roboto', sans-serif;
+    color:#5c5858;
+}
+.educationExperience h3, .skillSet h3{
+    color:#808080;
+    font-family: 'Roboto', sans-serif;
+    font-weight:500;
+    font-size:1.15em;
+}
+.brandName{
+    margin-top:-15px;
+}
+.brandName a{
+    text-decoration:none;
+    cursor:pointer;
+    color:#808080;
+}
+.tasks{
+    font-size:15px;
+    color:#595959;
+}
+.tasks .icon, .project .icon{
+    max-width:20px;
+}
+.academic{
+    line-height:6px;
+    font-size:15px;
+    color:#595959;
+}
+.skills p, .interests p{
+    font-family: 'Roboto', sans-serif;
+    font-weight:700;
+    font-size:0.85em;
+    color:#fff;
+    background-color:#404040;
+    padding:8px;
+    width:6vw;
+    border-radius:15px;
+    display:inline-block;
+    text-align:center;
+    margin-right:5px;
+}
+.project p{
+    font-size:15px;
+    color:#595959;
+    margin-top:-8px;
+}
+.project a{
+    color:#808080;
+    text-decoration:none;
+    cursor:pointer;
+}
