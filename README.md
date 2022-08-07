@@ -7,3 +7,4 @@
 | Day 5  | JavaScript Fundamental practice - [Printing Statement+DataTypes](https://github.com/Muskan2905/PlacementPrep/blob/main/Projects/Fundamentals/JavaScript/print.js), [strings](https://github.com/Muskan2905/PlacementPrep/blob/main/Projects/Fundamentals/JavaScript/string.js) and [operators](https://github.com/Muskan2905/PlacementPrep/blob/main/Projects/Fundamentals/JavaScript/operator.js) |
 | Day 6  | [Functions in JavaScript](https://github.com/Muskan2905/PlacementPrep/blob/main/Projects/Fundamentals/JavaScript/functions.js) |
 | Day 7  | [Patterns in C++](https://github.com/Muskan2905/PlacementPrep/tree/main/C%2B%2B%20Questions/Problems/Patterns) |
+| Day 8  | [Number System](https://github.com/Muskan2905/PlacementPrep/tree/main/C%2B%2B%20Questions/Problems/NumberSystem) |
